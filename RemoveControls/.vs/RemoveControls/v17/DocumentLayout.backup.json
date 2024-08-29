@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Neo-Fix\\source\\repos\\RemoveControls\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A5A7025B-5E11-4EA4-9D0E-9339DDBEA96A}|RemoveControls\\RemoveControls.csproj|c:\\users\\neo-fix\\source\\repos\\removecontrols\\removecontrols\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5A7025B-5E11-4EA4-9D0E-9339DDBEA96A}|RemoveControls\\RemoveControls.csproj|solutionrelative:removecontrols\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5A7025B-5E11-4EA4-9D0E-9339DDBEA96A}|RemoveControls\\RemoveControls.csproj|c:\\users\\neo-fix\\source\\repos\\removecontrols\\removecontrols\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A5A7025B-5E11-4EA4-9D0E-9339DDBEA96A}|RemoveControls\\RemoveControls.csproj|solutionrelative:removecontrols\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Neo-Fix\\source\\repos\\RemoveControls\\RemoveControls\\Form1.cs",
+              "RelativeDocumentMoniker": "RemoveControls\\Form1.cs",
+              "ToolTip": "C:\\Users\\Neo-Fix\\source\\repos\\RemoveControls\\RemoveControls\\Form1.cs",
+              "RelativeToolTip": "RemoveControls\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T17:35:52.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Neo-Fix\\source\\repos\\RemoveControls\\RemoveControls\\Form1.cs",
+              "RelativeDocumentMoniker": "RemoveControls\\Form1.cs",
+              "ToolTip": "C:\\Users\\Neo-Fix\\source\\repos\\RemoveControls\\RemoveControls\\Form1.cs [Design]",
+              "RelativeToolTip": "RemoveControls\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T16:11:39.337Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

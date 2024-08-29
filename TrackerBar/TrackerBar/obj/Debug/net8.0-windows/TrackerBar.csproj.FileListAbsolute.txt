@@ -1,0 +1,16 @@
+C:\Users\Neo-Fix\source\repos\TrackerBar\TrackerBar\bin\Debug\net8.0-windows\TrackerBar.exe
+C:\Users\Neo-Fix\source\repos\TrackerBar\TrackerBar\bin\Debug\net8.0-windows\TrackerBar.deps.json
+C:\Users\Neo-Fix\source\repos\TrackerBar\TrackerBar\bin\Debug\net8.0-windows\TrackerBar.runtimeconfig.json
+C:\Users\Neo-Fix\source\repos\TrackerBar\TrackerBar\bin\Debug\net8.0-windows\TrackerBar.dll
+C:\Users\Neo-Fix\source\repos\TrackerBar\TrackerBar\bin\Debug\net8.0-windows\TrackerBar.pdb
+C:\Users\Neo-Fix\source\repos\TrackerBar\TrackerBar\obj\Debug\net8.0-windows\TrackerBar.Form1.resources
+C:\Users\Neo-Fix\source\repos\TrackerBar\TrackerBar\obj\Debug\net8.0-windows\TrackerBar.csproj.GenerateResource.cache
+C:\Users\Neo-Fix\source\repos\TrackerBar\TrackerBar\obj\Debug\net8.0-windows\TrackerBar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Neo-Fix\source\repos\TrackerBar\TrackerBar\obj\Debug\net8.0-windows\TrackerBar.AssemblyInfoInputs.cache
+C:\Users\Neo-Fix\source\repos\TrackerBar\TrackerBar\obj\Debug\net8.0-windows\TrackerBar.AssemblyInfo.cs
+C:\Users\Neo-Fix\source\repos\TrackerBar\TrackerBar\obj\Debug\net8.0-windows\TrackerBar.csproj.CoreCompileInputs.cache
+C:\Users\Neo-Fix\source\repos\TrackerBar\TrackerBar\obj\Debug\net8.0-windows\TrackerBar.dll
+C:\Users\Neo-Fix\source\repos\TrackerBar\TrackerBar\obj\Debug\net8.0-windows\refint\TrackerBar.dll
+C:\Users\Neo-Fix\source\repos\TrackerBar\TrackerBar\obj\Debug\net8.0-windows\TrackerBar.pdb
+C:\Users\Neo-Fix\source\repos\TrackerBar\TrackerBar\obj\Debug\net8.0-windows\TrackerBar.genruntimeconfig.cache
+C:\Users\Neo-Fix\source\repos\TrackerBar\TrackerBar\obj\Debug\net8.0-windows\ref\TrackerBar.dll

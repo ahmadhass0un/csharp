@@ -1,0 +1,17 @@
+C:\Users\Neo-Fix\source\repos\Times\Times\bin\Debug\net8.0-windows\Times.exe
+C:\Users\Neo-Fix\source\repos\Times\Times\bin\Debug\net8.0-windows\Times.deps.json
+C:\Users\Neo-Fix\source\repos\Times\Times\bin\Debug\net8.0-windows\Times.runtimeconfig.json
+C:\Users\Neo-Fix\source\repos\Times\Times\bin\Debug\net8.0-windows\Times.dll
+C:\Users\Neo-Fix\source\repos\Times\Times\bin\Debug\net8.0-windows\Times.pdb
+C:\Users\Neo-Fix\source\repos\Times\Times\obj\Debug\net8.0-windows\Times.Form1.resources
+C:\Users\Neo-Fix\source\repos\Times\Times\obj\Debug\net8.0-windows\Times.Properties.Resources.resources
+C:\Users\Neo-Fix\source\repos\Times\Times\obj\Debug\net8.0-windows\Times.csproj.GenerateResource.cache
+C:\Users\Neo-Fix\source\repos\Times\Times\obj\Debug\net8.0-windows\Times.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Neo-Fix\source\repos\Times\Times\obj\Debug\net8.0-windows\Times.AssemblyInfoInputs.cache
+C:\Users\Neo-Fix\source\repos\Times\Times\obj\Debug\net8.0-windows\Times.AssemblyInfo.cs
+C:\Users\Neo-Fix\source\repos\Times\Times\obj\Debug\net8.0-windows\Times.csproj.CoreCompileInputs.cache
+C:\Users\Neo-Fix\source\repos\Times\Times\obj\Debug\net8.0-windows\Times.dll
+C:\Users\Neo-Fix\source\repos\Times\Times\obj\Debug\net8.0-windows\refint\Times.dll
+C:\Users\Neo-Fix\source\repos\Times\Times\obj\Debug\net8.0-windows\Times.pdb
+C:\Users\Neo-Fix\source\repos\Times\Times\obj\Debug\net8.0-windows\Times.genruntimeconfig.cache
+C:\Users\Neo-Fix\source\repos\Times\Times\obj\Debug\net8.0-windows\ref\Times.dll

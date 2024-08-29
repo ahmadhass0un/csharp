@@ -1,0 +1,16 @@
+C:\Users\Neo-Fix\source\repos\RemoveControls\RemoveControls\bin\Debug\net8.0-windows\RemoveControls.exe
+C:\Users\Neo-Fix\source\repos\RemoveControls\RemoveControls\bin\Debug\net8.0-windows\RemoveControls.deps.json
+C:\Users\Neo-Fix\source\repos\RemoveControls\RemoveControls\bin\Debug\net8.0-windows\RemoveControls.runtimeconfig.json
+C:\Users\Neo-Fix\source\repos\RemoveControls\RemoveControls\bin\Debug\net8.0-windows\RemoveControls.dll
+C:\Users\Neo-Fix\source\repos\RemoveControls\RemoveControls\bin\Debug\net8.0-windows\RemoveControls.pdb
+C:\Users\Neo-Fix\source\repos\RemoveControls\RemoveControls\obj\Debug\net8.0-windows\RemoveControls.Form1.resources
+C:\Users\Neo-Fix\source\repos\RemoveControls\RemoveControls\obj\Debug\net8.0-windows\RemoveControls.csproj.GenerateResource.cache
+C:\Users\Neo-Fix\source\repos\RemoveControls\RemoveControls\obj\Debug\net8.0-windows\RemoveControls.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Neo-Fix\source\repos\RemoveControls\RemoveControls\obj\Debug\net8.0-windows\RemoveControls.AssemblyInfoInputs.cache
+C:\Users\Neo-Fix\source\repos\RemoveControls\RemoveControls\obj\Debug\net8.0-windows\RemoveControls.AssemblyInfo.cs
+C:\Users\Neo-Fix\source\repos\RemoveControls\RemoveControls\obj\Debug\net8.0-windows\RemoveControls.csproj.CoreCompileInputs.cache
+C:\Users\Neo-Fix\source\repos\RemoveControls\RemoveControls\obj\Debug\net8.0-windows\RemoveControls.dll
+C:\Users\Neo-Fix\source\repos\RemoveControls\RemoveControls\obj\Debug\net8.0-windows\refint\RemoveControls.dll
+C:\Users\Neo-Fix\source\repos\RemoveControls\RemoveControls\obj\Debug\net8.0-windows\RemoveControls.pdb
+C:\Users\Neo-Fix\source\repos\RemoveControls\RemoveControls\obj\Debug\net8.0-windows\RemoveControls.genruntimeconfig.cache
+C:\Users\Neo-Fix\source\repos\RemoveControls\RemoveControls\obj\Debug\net8.0-windows\ref\RemoveControls.dll
