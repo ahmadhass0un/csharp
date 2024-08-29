@@ -1,0 +1,16 @@
+C:\Users\Neo-Fix\Downloads\reops\checkboxes\checkboxes\bin\Debug\net8.0-windows\checkboxes.exe
+C:\Users\Neo-Fix\Downloads\reops\checkboxes\checkboxes\bin\Debug\net8.0-windows\checkboxes.deps.json
+C:\Users\Neo-Fix\Downloads\reops\checkboxes\checkboxes\bin\Debug\net8.0-windows\checkboxes.runtimeconfig.json
+C:\Users\Neo-Fix\Downloads\reops\checkboxes\checkboxes\bin\Debug\net8.0-windows\checkboxes.dll
+C:\Users\Neo-Fix\Downloads\reops\checkboxes\checkboxes\bin\Debug\net8.0-windows\checkboxes.pdb
+C:\Users\Neo-Fix\Downloads\reops\checkboxes\checkboxes\obj\Debug\net8.0-windows\checkboxes.Form1.resources
+C:\Users\Neo-Fix\Downloads\reops\checkboxes\checkboxes\obj\Debug\net8.0-windows\checkboxes.csproj.GenerateResource.cache
+C:\Users\Neo-Fix\Downloads\reops\checkboxes\checkboxes\obj\Debug\net8.0-windows\checkboxes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Neo-Fix\Downloads\reops\checkboxes\checkboxes\obj\Debug\net8.0-windows\checkboxes.AssemblyInfoInputs.cache
+C:\Users\Neo-Fix\Downloads\reops\checkboxes\checkboxes\obj\Debug\net8.0-windows\checkboxes.AssemblyInfo.cs
+C:\Users\Neo-Fix\Downloads\reops\checkboxes\checkboxes\obj\Debug\net8.0-windows\checkboxes.csproj.CoreCompileInputs.cache
+C:\Users\Neo-Fix\Downloads\reops\checkboxes\checkboxes\obj\Debug\net8.0-windows\checkboxes.dll
+C:\Users\Neo-Fix\Downloads\reops\checkboxes\checkboxes\obj\Debug\net8.0-windows\refint\checkboxes.dll
+C:\Users\Neo-Fix\Downloads\reops\checkboxes\checkboxes\obj\Debug\net8.0-windows\checkboxes.pdb
+C:\Users\Neo-Fix\Downloads\reops\checkboxes\checkboxes\obj\Debug\net8.0-windows\checkboxes.genruntimeconfig.cache
+C:\Users\Neo-Fix\Downloads\reops\checkboxes\checkboxes\obj\Debug\net8.0-windows\ref\checkboxes.dll

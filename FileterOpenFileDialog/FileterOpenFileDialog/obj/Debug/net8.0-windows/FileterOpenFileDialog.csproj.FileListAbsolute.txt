@@ -1,0 +1,16 @@
+C:\Users\Neo-Fix\Downloads\reops\FileterOpenFileDialog\FileterOpenFileDialog\bin\Debug\net8.0-windows\FileterOpenFileDialog.exe
+C:\Users\Neo-Fix\Downloads\reops\FileterOpenFileDialog\FileterOpenFileDialog\bin\Debug\net8.0-windows\FileterOpenFileDialog.deps.json
+C:\Users\Neo-Fix\Downloads\reops\FileterOpenFileDialog\FileterOpenFileDialog\bin\Debug\net8.0-windows\FileterOpenFileDialog.runtimeconfig.json
+C:\Users\Neo-Fix\Downloads\reops\FileterOpenFileDialog\FileterOpenFileDialog\bin\Debug\net8.0-windows\FileterOpenFileDialog.dll
+C:\Users\Neo-Fix\Downloads\reops\FileterOpenFileDialog\FileterOpenFileDialog\bin\Debug\net8.0-windows\FileterOpenFileDialog.pdb
+C:\Users\Neo-Fix\Downloads\reops\FileterOpenFileDialog\FileterOpenFileDialog\obj\Debug\net8.0-windows\FileterOpenFileDialog.Form1.resources
+C:\Users\Neo-Fix\Downloads\reops\FileterOpenFileDialog\FileterOpenFileDialog\obj\Debug\net8.0-windows\FileterOpenFileDialog.csproj.GenerateResource.cache
+C:\Users\Neo-Fix\Downloads\reops\FileterOpenFileDialog\FileterOpenFileDialog\obj\Debug\net8.0-windows\FileterOpenFileDialog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Neo-Fix\Downloads\reops\FileterOpenFileDialog\FileterOpenFileDialog\obj\Debug\net8.0-windows\FileterOpenFileDialog.AssemblyInfoInputs.cache
+C:\Users\Neo-Fix\Downloads\reops\FileterOpenFileDialog\FileterOpenFileDialog\obj\Debug\net8.0-windows\FileterOpenFileDialog.AssemblyInfo.cs
+C:\Users\Neo-Fix\Downloads\reops\FileterOpenFileDialog\FileterOpenFileDialog\obj\Debug\net8.0-windows\FileterOpenFileDialog.csproj.CoreCompileInputs.cache
+C:\Users\Neo-Fix\Downloads\reops\FileterOpenFileDialog\FileterOpenFileDialog\obj\Debug\net8.0-windows\FileterOpenFileDialog.dll
+C:\Users\Neo-Fix\Downloads\reops\FileterOpenFileDialog\FileterOpenFileDialog\obj\Debug\net8.0-windows\refint\FileterOpenFileDialog.dll
+C:\Users\Neo-Fix\Downloads\reops\FileterOpenFileDialog\FileterOpenFileDialog\obj\Debug\net8.0-windows\FileterOpenFileDialog.pdb
+C:\Users\Neo-Fix\Downloads\reops\FileterOpenFileDialog\FileterOpenFileDialog\obj\Debug\net8.0-windows\FileterOpenFileDialog.genruntimeconfig.cache
+C:\Users\Neo-Fix\Downloads\reops\FileterOpenFileDialog\FileterOpenFileDialog\obj\Debug\net8.0-windows\ref\FileterOpenFileDialog.dll

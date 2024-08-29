@@ -1,0 +1,16 @@
+C:\Users\Neo-Fix\Downloads\reops\DataManagementApp\DataManagementApp\bin\Release\net8.0-windows\DataManagementApp.exe
+C:\Users\Neo-Fix\Downloads\reops\DataManagementApp\DataManagementApp\bin\Release\net8.0-windows\DataManagementApp.deps.json
+C:\Users\Neo-Fix\Downloads\reops\DataManagementApp\DataManagementApp\bin\Release\net8.0-windows\DataManagementApp.runtimeconfig.json
+C:\Users\Neo-Fix\Downloads\reops\DataManagementApp\DataManagementApp\bin\Release\net8.0-windows\DataManagementApp.dll
+C:\Users\Neo-Fix\Downloads\reops\DataManagementApp\DataManagementApp\bin\Release\net8.0-windows\DataManagementApp.pdb
+C:\Users\Neo-Fix\Downloads\reops\DataManagementApp\DataManagementApp\obj\Release\net8.0-windows\DataManagementApp.Form1.resources
+C:\Users\Neo-Fix\Downloads\reops\DataManagementApp\DataManagementApp\obj\Release\net8.0-windows\DataManagementApp.csproj.GenerateResource.cache
+C:\Users\Neo-Fix\Downloads\reops\DataManagementApp\DataManagementApp\obj\Release\net8.0-windows\DataManagementApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Neo-Fix\Downloads\reops\DataManagementApp\DataManagementApp\obj\Release\net8.0-windows\DataManagementApp.AssemblyInfoInputs.cache
+C:\Users\Neo-Fix\Downloads\reops\DataManagementApp\DataManagementApp\obj\Release\net8.0-windows\DataManagementApp.AssemblyInfo.cs
+C:\Users\Neo-Fix\Downloads\reops\DataManagementApp\DataManagementApp\obj\Release\net8.0-windows\DataManagementApp.csproj.CoreCompileInputs.cache
+C:\Users\Neo-Fix\Downloads\reops\DataManagementApp\DataManagementApp\obj\Release\net8.0-windows\DataManagementApp.dll
+C:\Users\Neo-Fix\Downloads\reops\DataManagementApp\DataManagementApp\obj\Release\net8.0-windows\refint\DataManagementApp.dll
+C:\Users\Neo-Fix\Downloads\reops\DataManagementApp\DataManagementApp\obj\Release\net8.0-windows\DataManagementApp.pdb
+C:\Users\Neo-Fix\Downloads\reops\DataManagementApp\DataManagementApp\obj\Release\net8.0-windows\DataManagementApp.genruntimeconfig.cache
+C:\Users\Neo-Fix\Downloads\reops\DataManagementApp\DataManagementApp\obj\Release\net8.0-windows\ref\DataManagementApp.dll

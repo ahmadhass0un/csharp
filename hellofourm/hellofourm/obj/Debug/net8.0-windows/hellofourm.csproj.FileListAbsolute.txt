@@ -1,0 +1,16 @@
+C:\Users\Neo-Fix\Downloads\reops\hellofourm\hellofourm\bin\Debug\net8.0-windows\hellofourm.exe
+C:\Users\Neo-Fix\Downloads\reops\hellofourm\hellofourm\bin\Debug\net8.0-windows\hellofourm.deps.json
+C:\Users\Neo-Fix\Downloads\reops\hellofourm\hellofourm\bin\Debug\net8.0-windows\hellofourm.runtimeconfig.json
+C:\Users\Neo-Fix\Downloads\reops\hellofourm\hellofourm\bin\Debug\net8.0-windows\hellofourm.dll
+C:\Users\Neo-Fix\Downloads\reops\hellofourm\hellofourm\bin\Debug\net8.0-windows\hellofourm.pdb
+C:\Users\Neo-Fix\Downloads\reops\hellofourm\hellofourm\obj\Debug\net8.0-windows\hellofourm.Form1.resources
+C:\Users\Neo-Fix\Downloads\reops\hellofourm\hellofourm\obj\Debug\net8.0-windows\hellofourm.csproj.GenerateResource.cache
+C:\Users\Neo-Fix\Downloads\reops\hellofourm\hellofourm\obj\Debug\net8.0-windows\hellofourm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Neo-Fix\Downloads\reops\hellofourm\hellofourm\obj\Debug\net8.0-windows\hellofourm.AssemblyInfoInputs.cache
+C:\Users\Neo-Fix\Downloads\reops\hellofourm\hellofourm\obj\Debug\net8.0-windows\hellofourm.AssemblyInfo.cs
+C:\Users\Neo-Fix\Downloads\reops\hellofourm\hellofourm\obj\Debug\net8.0-windows\hellofourm.csproj.CoreCompileInputs.cache
+C:\Users\Neo-Fix\Downloads\reops\hellofourm\hellofourm\obj\Debug\net8.0-windows\hellofourm.dll
+C:\Users\Neo-Fix\Downloads\reops\hellofourm\hellofourm\obj\Debug\net8.0-windows\refint\hellofourm.dll
+C:\Users\Neo-Fix\Downloads\reops\hellofourm\hellofourm\obj\Debug\net8.0-windows\hellofourm.pdb
+C:\Users\Neo-Fix\Downloads\reops\hellofourm\hellofourm\obj\Debug\net8.0-windows\hellofourm.genruntimeconfig.cache
+C:\Users\Neo-Fix\Downloads\reops\hellofourm\hellofourm\obj\Debug\net8.0-windows\ref\hellofourm.dll

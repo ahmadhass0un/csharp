@@ -1,0 +1,16 @@
+C:\Users\Neo-Fix\Downloads\reops\ListCheckBox\ListCheckBox\obj\Debug\net8.0-windows\ListCheckBox.Form1.resources
+C:\Users\Neo-Fix\Downloads\reops\ListCheckBox\ListCheckBox\obj\Debug\net8.0-windows\ListCheckBox.csproj.GenerateResource.cache
+C:\Users\Neo-Fix\Downloads\reops\ListCheckBox\ListCheckBox\obj\Debug\net8.0-windows\ListCheckBox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Neo-Fix\Downloads\reops\ListCheckBox\ListCheckBox\obj\Debug\net8.0-windows\ListCheckBox.AssemblyInfoInputs.cache
+C:\Users\Neo-Fix\Downloads\reops\ListCheckBox\ListCheckBox\obj\Debug\net8.0-windows\ListCheckBox.AssemblyInfo.cs
+C:\Users\Neo-Fix\Downloads\reops\ListCheckBox\ListCheckBox\obj\Debug\net8.0-windows\ListCheckBox.csproj.CoreCompileInputs.cache
+C:\Users\Neo-Fix\Downloads\reops\ListCheckBox\ListCheckBox\bin\Debug\net8.0-windows\ListCheckBox.exe
+C:\Users\Neo-Fix\Downloads\reops\ListCheckBox\ListCheckBox\bin\Debug\net8.0-windows\ListCheckBox.deps.json
+C:\Users\Neo-Fix\Downloads\reops\ListCheckBox\ListCheckBox\bin\Debug\net8.0-windows\ListCheckBox.runtimeconfig.json
+C:\Users\Neo-Fix\Downloads\reops\ListCheckBox\ListCheckBox\bin\Debug\net8.0-windows\ListCheckBox.dll
+C:\Users\Neo-Fix\Downloads\reops\ListCheckBox\ListCheckBox\bin\Debug\net8.0-windows\ListCheckBox.pdb
+C:\Users\Neo-Fix\Downloads\reops\ListCheckBox\ListCheckBox\obj\Debug\net8.0-windows\ListCheckBox.dll
+C:\Users\Neo-Fix\Downloads\reops\ListCheckBox\ListCheckBox\obj\Debug\net8.0-windows\refint\ListCheckBox.dll
+C:\Users\Neo-Fix\Downloads\reops\ListCheckBox\ListCheckBox\obj\Debug\net8.0-windows\ListCheckBox.pdb
+C:\Users\Neo-Fix\Downloads\reops\ListCheckBox\ListCheckBox\obj\Debug\net8.0-windows\ListCheckBox.genruntimeconfig.cache
+C:\Users\Neo-Fix\Downloads\reops\ListCheckBox\ListCheckBox\obj\Debug\net8.0-windows\ref\ListCheckBox.dll

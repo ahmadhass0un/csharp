@@ -1,0 +1,16 @@
+C:\Users\Neo-Fix\Downloads\reops\FileCopier\FileCopier\bin\Debug\net8.0-windows\FileCopier.exe
+C:\Users\Neo-Fix\Downloads\reops\FileCopier\FileCopier\bin\Debug\net8.0-windows\FileCopier.deps.json
+C:\Users\Neo-Fix\Downloads\reops\FileCopier\FileCopier\bin\Debug\net8.0-windows\FileCopier.runtimeconfig.json
+C:\Users\Neo-Fix\Downloads\reops\FileCopier\FileCopier\bin\Debug\net8.0-windows\FileCopier.dll
+C:\Users\Neo-Fix\Downloads\reops\FileCopier\FileCopier\bin\Debug\net8.0-windows\FileCopier.pdb
+C:\Users\Neo-Fix\Downloads\reops\FileCopier\FileCopier\obj\Debug\net8.0-windows\FileCopier.Form1.resources
+C:\Users\Neo-Fix\Downloads\reops\FileCopier\FileCopier\obj\Debug\net8.0-windows\FileCopier.csproj.GenerateResource.cache
+C:\Users\Neo-Fix\Downloads\reops\FileCopier\FileCopier\obj\Debug\net8.0-windows\FileCopier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Neo-Fix\Downloads\reops\FileCopier\FileCopier\obj\Debug\net8.0-windows\FileCopier.AssemblyInfoInputs.cache
+C:\Users\Neo-Fix\Downloads\reops\FileCopier\FileCopier\obj\Debug\net8.0-windows\FileCopier.AssemblyInfo.cs
+C:\Users\Neo-Fix\Downloads\reops\FileCopier\FileCopier\obj\Debug\net8.0-windows\FileCopier.csproj.CoreCompileInputs.cache
+C:\Users\Neo-Fix\Downloads\reops\FileCopier\FileCopier\obj\Debug\net8.0-windows\FileCopier.dll
+C:\Users\Neo-Fix\Downloads\reops\FileCopier\FileCopier\obj\Debug\net8.0-windows\refint\FileCopier.dll
+C:\Users\Neo-Fix\Downloads\reops\FileCopier\FileCopier\obj\Debug\net8.0-windows\FileCopier.pdb
+C:\Users\Neo-Fix\Downloads\reops\FileCopier\FileCopier\obj\Debug\net8.0-windows\FileCopier.genruntimeconfig.cache
+C:\Users\Neo-Fix\Downloads\reops\FileCopier\FileCopier\obj\Debug\net8.0-windows\ref\FileCopier.dll

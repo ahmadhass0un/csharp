@@ -1,0 +1,16 @@
+C:\Users\Neo-Fix\Downloads\reops\saveFileDialog\saveFileDialog\bin\Debug\net8.0-windows\saveFileDialog.exe
+C:\Users\Neo-Fix\Downloads\reops\saveFileDialog\saveFileDialog\bin\Debug\net8.0-windows\saveFileDialog.deps.json
+C:\Users\Neo-Fix\Downloads\reops\saveFileDialog\saveFileDialog\bin\Debug\net8.0-windows\saveFileDialog.runtimeconfig.json
+C:\Users\Neo-Fix\Downloads\reops\saveFileDialog\saveFileDialog\bin\Debug\net8.0-windows\saveFileDialog.dll
+C:\Users\Neo-Fix\Downloads\reops\saveFileDialog\saveFileDialog\bin\Debug\net8.0-windows\saveFileDialog.pdb
+C:\Users\Neo-Fix\Downloads\reops\saveFileDialog\saveFileDialog\obj\Debug\net8.0-windows\saveFileDialog.Form1.resources
+C:\Users\Neo-Fix\Downloads\reops\saveFileDialog\saveFileDialog\obj\Debug\net8.0-windows\saveFileDialog.csproj.GenerateResource.cache
+C:\Users\Neo-Fix\Downloads\reops\saveFileDialog\saveFileDialog\obj\Debug\net8.0-windows\saveFileDialog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Neo-Fix\Downloads\reops\saveFileDialog\saveFileDialog\obj\Debug\net8.0-windows\saveFileDialog.AssemblyInfoInputs.cache
+C:\Users\Neo-Fix\Downloads\reops\saveFileDialog\saveFileDialog\obj\Debug\net8.0-windows\saveFileDialog.AssemblyInfo.cs
+C:\Users\Neo-Fix\Downloads\reops\saveFileDialog\saveFileDialog\obj\Debug\net8.0-windows\saveFileDialog.csproj.CoreCompileInputs.cache
+C:\Users\Neo-Fix\Downloads\reops\saveFileDialog\saveFileDialog\obj\Debug\net8.0-windows\saveFileDialog.dll
+C:\Users\Neo-Fix\Downloads\reops\saveFileDialog\saveFileDialog\obj\Debug\net8.0-windows\refint\saveFileDialog.dll
+C:\Users\Neo-Fix\Downloads\reops\saveFileDialog\saveFileDialog\obj\Debug\net8.0-windows\saveFileDialog.pdb
+C:\Users\Neo-Fix\Downloads\reops\saveFileDialog\saveFileDialog\obj\Debug\net8.0-windows\saveFileDialog.genruntimeconfig.cache
+C:\Users\Neo-Fix\Downloads\reops\saveFileDialog\saveFileDialog\obj\Debug\net8.0-windows\ref\saveFileDialog.dll

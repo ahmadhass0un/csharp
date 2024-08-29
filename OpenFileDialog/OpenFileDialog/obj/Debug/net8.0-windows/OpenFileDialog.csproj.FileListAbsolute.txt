@@ -1,0 +1,16 @@
+C:\Users\Neo-Fix\Downloads\reops\OpenFileDialog\OpenFileDialog\bin\Debug\net8.0-windows\OpenFileDialog.exe
+C:\Users\Neo-Fix\Downloads\reops\OpenFileDialog\OpenFileDialog\bin\Debug\net8.0-windows\OpenFileDialog.deps.json
+C:\Users\Neo-Fix\Downloads\reops\OpenFileDialog\OpenFileDialog\bin\Debug\net8.0-windows\OpenFileDialog.runtimeconfig.json
+C:\Users\Neo-Fix\Downloads\reops\OpenFileDialog\OpenFileDialog\bin\Debug\net8.0-windows\OpenFileDialog.dll
+C:\Users\Neo-Fix\Downloads\reops\OpenFileDialog\OpenFileDialog\bin\Debug\net8.0-windows\OpenFileDialog.pdb
+C:\Users\Neo-Fix\Downloads\reops\OpenFileDialog\OpenFileDialog\obj\Debug\net8.0-windows\OpenFileDialog.Form1.resources
+C:\Users\Neo-Fix\Downloads\reops\OpenFileDialog\OpenFileDialog\obj\Debug\net8.0-windows\OpenFileDialog.csproj.GenerateResource.cache
+C:\Users\Neo-Fix\Downloads\reops\OpenFileDialog\OpenFileDialog\obj\Debug\net8.0-windows\OpenFileDialog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Neo-Fix\Downloads\reops\OpenFileDialog\OpenFileDialog\obj\Debug\net8.0-windows\OpenFileDialog.AssemblyInfoInputs.cache
+C:\Users\Neo-Fix\Downloads\reops\OpenFileDialog\OpenFileDialog\obj\Debug\net8.0-windows\OpenFileDialog.AssemblyInfo.cs
+C:\Users\Neo-Fix\Downloads\reops\OpenFileDialog\OpenFileDialog\obj\Debug\net8.0-windows\OpenFileDialog.csproj.CoreCompileInputs.cache
+C:\Users\Neo-Fix\Downloads\reops\OpenFileDialog\OpenFileDialog\obj\Debug\net8.0-windows\OpenFileDialog.dll
+C:\Users\Neo-Fix\Downloads\reops\OpenFileDialog\OpenFileDialog\obj\Debug\net8.0-windows\refint\OpenFileDialog.dll
+C:\Users\Neo-Fix\Downloads\reops\OpenFileDialog\OpenFileDialog\obj\Debug\net8.0-windows\OpenFileDialog.pdb
+C:\Users\Neo-Fix\Downloads\reops\OpenFileDialog\OpenFileDialog\obj\Debug\net8.0-windows\OpenFileDialog.genruntimeconfig.cache
+C:\Users\Neo-Fix\Downloads\reops\OpenFileDialog\OpenFileDialog\obj\Debug\net8.0-windows\ref\OpenFileDialog.dll

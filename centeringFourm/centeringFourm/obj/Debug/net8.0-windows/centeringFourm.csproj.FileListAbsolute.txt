@@ -1,0 +1,16 @@
+C:\Users\Neo-Fix\Downloads\reops\centeringFourm\centeringFourm\bin\Debug\net8.0-windows\centeringFourm.exe
+C:\Users\Neo-Fix\Downloads\reops\centeringFourm\centeringFourm\bin\Debug\net8.0-windows\centeringFourm.deps.json
+C:\Users\Neo-Fix\Downloads\reops\centeringFourm\centeringFourm\bin\Debug\net8.0-windows\centeringFourm.runtimeconfig.json
+C:\Users\Neo-Fix\Downloads\reops\centeringFourm\centeringFourm\bin\Debug\net8.0-windows\centeringFourm.dll
+C:\Users\Neo-Fix\Downloads\reops\centeringFourm\centeringFourm\bin\Debug\net8.0-windows\centeringFourm.pdb
+C:\Users\Neo-Fix\Downloads\reops\centeringFourm\centeringFourm\obj\Debug\net8.0-windows\centeringFourm.Form1.resources
+C:\Users\Neo-Fix\Downloads\reops\centeringFourm\centeringFourm\obj\Debug\net8.0-windows\centeringFourm.csproj.GenerateResource.cache
+C:\Users\Neo-Fix\Downloads\reops\centeringFourm\centeringFourm\obj\Debug\net8.0-windows\centeringFourm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Neo-Fix\Downloads\reops\centeringFourm\centeringFourm\obj\Debug\net8.0-windows\centeringFourm.AssemblyInfoInputs.cache
+C:\Users\Neo-Fix\Downloads\reops\centeringFourm\centeringFourm\obj\Debug\net8.0-windows\centeringFourm.AssemblyInfo.cs
+C:\Users\Neo-Fix\Downloads\reops\centeringFourm\centeringFourm\obj\Debug\net8.0-windows\centeringFourm.csproj.CoreCompileInputs.cache
+C:\Users\Neo-Fix\Downloads\reops\centeringFourm\centeringFourm\obj\Debug\net8.0-windows\centeringFourm.dll
+C:\Users\Neo-Fix\Downloads\reops\centeringFourm\centeringFourm\obj\Debug\net8.0-windows\refint\centeringFourm.dll
+C:\Users\Neo-Fix\Downloads\reops\centeringFourm\centeringFourm\obj\Debug\net8.0-windows\centeringFourm.pdb
+C:\Users\Neo-Fix\Downloads\reops\centeringFourm\centeringFourm\obj\Debug\net8.0-windows\centeringFourm.genruntimeconfig.cache
+C:\Users\Neo-Fix\Downloads\reops\centeringFourm\centeringFourm\obj\Debug\net8.0-windows\ref\centeringFourm.dll

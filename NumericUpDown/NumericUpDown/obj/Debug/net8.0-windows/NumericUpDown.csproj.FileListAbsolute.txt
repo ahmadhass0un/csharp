@@ -1,0 +1,16 @@
+C:\Users\Neo-Fix\Downloads\reops\NumericUpDown\NumericUpDown\bin\Debug\net8.0-windows\NumericUpDown.exe
+C:\Users\Neo-Fix\Downloads\reops\NumericUpDown\NumericUpDown\bin\Debug\net8.0-windows\NumericUpDown.deps.json
+C:\Users\Neo-Fix\Downloads\reops\NumericUpDown\NumericUpDown\bin\Debug\net8.0-windows\NumericUpDown.runtimeconfig.json
+C:\Users\Neo-Fix\Downloads\reops\NumericUpDown\NumericUpDown\bin\Debug\net8.0-windows\NumericUpDown.dll
+C:\Users\Neo-Fix\Downloads\reops\NumericUpDown\NumericUpDown\bin\Debug\net8.0-windows\NumericUpDown.pdb
+C:\Users\Neo-Fix\Downloads\reops\NumericUpDown\NumericUpDown\obj\Debug\net8.0-windows\NumericUpDown.Form1.resources
+C:\Users\Neo-Fix\Downloads\reops\NumericUpDown\NumericUpDown\obj\Debug\net8.0-windows\NumericUpDown.csproj.GenerateResource.cache
+C:\Users\Neo-Fix\Downloads\reops\NumericUpDown\NumericUpDown\obj\Debug\net8.0-windows\NumericUpDown.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Neo-Fix\Downloads\reops\NumericUpDown\NumericUpDown\obj\Debug\net8.0-windows\NumericUpDown.AssemblyInfoInputs.cache
+C:\Users\Neo-Fix\Downloads\reops\NumericUpDown\NumericUpDown\obj\Debug\net8.0-windows\NumericUpDown.AssemblyInfo.cs
+C:\Users\Neo-Fix\Downloads\reops\NumericUpDown\NumericUpDown\obj\Debug\net8.0-windows\NumericUpDown.csproj.CoreCompileInputs.cache
+C:\Users\Neo-Fix\Downloads\reops\NumericUpDown\NumericUpDown\obj\Debug\net8.0-windows\NumericUpDown.dll
+C:\Users\Neo-Fix\Downloads\reops\NumericUpDown\NumericUpDown\obj\Debug\net8.0-windows\refint\NumericUpDown.dll
+C:\Users\Neo-Fix\Downloads\reops\NumericUpDown\NumericUpDown\obj\Debug\net8.0-windows\NumericUpDown.pdb
+C:\Users\Neo-Fix\Downloads\reops\NumericUpDown\NumericUpDown\obj\Debug\net8.0-windows\NumericUpDown.genruntimeconfig.cache
+C:\Users\Neo-Fix\Downloads\reops\NumericUpDown\NumericUpDown\obj\Debug\net8.0-windows\ref\NumericUpDown.dll

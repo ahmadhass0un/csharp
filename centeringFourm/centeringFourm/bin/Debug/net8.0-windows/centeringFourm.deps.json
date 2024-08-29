@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "centeringFourm/1.0.0": {
+        "runtime": {
+          "centeringFourm.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "centeringFourm/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

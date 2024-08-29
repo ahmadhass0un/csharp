@@ -1,0 +1,16 @@
+C:\Users\Neo-Fix\Downloads\reops\BtnWithTextBox\BtnWithTextBox\bin\Debug\net8.0-windows\BtnWithTextBox.exe
+C:\Users\Neo-Fix\Downloads\reops\BtnWithTextBox\BtnWithTextBox\bin\Debug\net8.0-windows\BtnWithTextBox.deps.json
+C:\Users\Neo-Fix\Downloads\reops\BtnWithTextBox\BtnWithTextBox\bin\Debug\net8.0-windows\BtnWithTextBox.runtimeconfig.json
+C:\Users\Neo-Fix\Downloads\reops\BtnWithTextBox\BtnWithTextBox\bin\Debug\net8.0-windows\BtnWithTextBox.dll
+C:\Users\Neo-Fix\Downloads\reops\BtnWithTextBox\BtnWithTextBox\bin\Debug\net8.0-windows\BtnWithTextBox.pdb
+C:\Users\Neo-Fix\Downloads\reops\BtnWithTextBox\BtnWithTextBox\obj\Debug\net8.0-windows\BtnWithTextBox.Form1.resources
+C:\Users\Neo-Fix\Downloads\reops\BtnWithTextBox\BtnWithTextBox\obj\Debug\net8.0-windows\BtnWithTextBox.csproj.GenerateResource.cache
+C:\Users\Neo-Fix\Downloads\reops\BtnWithTextBox\BtnWithTextBox\obj\Debug\net8.0-windows\BtnWithTextBox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Neo-Fix\Downloads\reops\BtnWithTextBox\BtnWithTextBox\obj\Debug\net8.0-windows\BtnWithTextBox.AssemblyInfoInputs.cache
+C:\Users\Neo-Fix\Downloads\reops\BtnWithTextBox\BtnWithTextBox\obj\Debug\net8.0-windows\BtnWithTextBox.AssemblyInfo.cs
+C:\Users\Neo-Fix\Downloads\reops\BtnWithTextBox\BtnWithTextBox\obj\Debug\net8.0-windows\BtnWithTextBox.csproj.CoreCompileInputs.cache
+C:\Users\Neo-Fix\Downloads\reops\BtnWithTextBox\BtnWithTextBox\obj\Debug\net8.0-windows\BtnWithTextBox.dll
+C:\Users\Neo-Fix\Downloads\reops\BtnWithTextBox\BtnWithTextBox\obj\Debug\net8.0-windows\refint\BtnWithTextBox.dll
+C:\Users\Neo-Fix\Downloads\reops\BtnWithTextBox\BtnWithTextBox\obj\Debug\net8.0-windows\BtnWithTextBox.pdb
+C:\Users\Neo-Fix\Downloads\reops\BtnWithTextBox\BtnWithTextBox\obj\Debug\net8.0-windows\BtnWithTextBox.genruntimeconfig.cache
+C:\Users\Neo-Fix\Downloads\reops\BtnWithTextBox\BtnWithTextBox\obj\Debug\net8.0-windows\ref\BtnWithTextBox.dll

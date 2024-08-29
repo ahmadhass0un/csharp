@@ -1,0 +1,16 @@
+C:\Users\Neo-Fix\Downloads\reops\FourmUsingCode\FourmUsingCode\bin\Debug\net8.0-windows\FourmUsingCode.exe
+C:\Users\Neo-Fix\Downloads\reops\FourmUsingCode\FourmUsingCode\bin\Debug\net8.0-windows\FourmUsingCode.deps.json
+C:\Users\Neo-Fix\Downloads\reops\FourmUsingCode\FourmUsingCode\bin\Debug\net8.0-windows\FourmUsingCode.runtimeconfig.json
+C:\Users\Neo-Fix\Downloads\reops\FourmUsingCode\FourmUsingCode\bin\Debug\net8.0-windows\FourmUsingCode.dll
+C:\Users\Neo-Fix\Downloads\reops\FourmUsingCode\FourmUsingCode\bin\Debug\net8.0-windows\FourmUsingCode.pdb
+C:\Users\Neo-Fix\Downloads\reops\FourmUsingCode\FourmUsingCode\obj\Debug\net8.0-windows\FourmUsingCode.Form1.resources
+C:\Users\Neo-Fix\Downloads\reops\FourmUsingCode\FourmUsingCode\obj\Debug\net8.0-windows\FourmUsingCode.csproj.GenerateResource.cache
+C:\Users\Neo-Fix\Downloads\reops\FourmUsingCode\FourmUsingCode\obj\Debug\net8.0-windows\FourmUsingCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Neo-Fix\Downloads\reops\FourmUsingCode\FourmUsingCode\obj\Debug\net8.0-windows\FourmUsingCode.AssemblyInfoInputs.cache
+C:\Users\Neo-Fix\Downloads\reops\FourmUsingCode\FourmUsingCode\obj\Debug\net8.0-windows\FourmUsingCode.AssemblyInfo.cs
+C:\Users\Neo-Fix\Downloads\reops\FourmUsingCode\FourmUsingCode\obj\Debug\net8.0-windows\FourmUsingCode.csproj.CoreCompileInputs.cache
+C:\Users\Neo-Fix\Downloads\reops\FourmUsingCode\FourmUsingCode\obj\Debug\net8.0-windows\FourmUsingCode.dll
+C:\Users\Neo-Fix\Downloads\reops\FourmUsingCode\FourmUsingCode\obj\Debug\net8.0-windows\refint\FourmUsingCode.dll
+C:\Users\Neo-Fix\Downloads\reops\FourmUsingCode\FourmUsingCode\obj\Debug\net8.0-windows\FourmUsingCode.pdb
+C:\Users\Neo-Fix\Downloads\reops\FourmUsingCode\FourmUsingCode\obj\Debug\net8.0-windows\FourmUsingCode.genruntimeconfig.cache
+C:\Users\Neo-Fix\Downloads\reops\FourmUsingCode\FourmUsingCode\obj\Debug\net8.0-windows\ref\FourmUsingCode.dll
