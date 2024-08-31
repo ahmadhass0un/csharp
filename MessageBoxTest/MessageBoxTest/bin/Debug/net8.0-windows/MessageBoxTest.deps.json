@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "MessageBoxTest/1.0.0": {
+        "runtime": {
+          "MessageBoxTest.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MessageBoxTest/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

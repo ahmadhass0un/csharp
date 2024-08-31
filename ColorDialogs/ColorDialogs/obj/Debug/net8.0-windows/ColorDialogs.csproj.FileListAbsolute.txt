@@ -1,0 +1,17 @@
+C:\Users\Neo-Fix\Downloads\csharp\ColorDialogs\ColorDialogs\bin\Debug\net8.0-windows\ColorDialogs.exe
+C:\Users\Neo-Fix\Downloads\csharp\ColorDialogs\ColorDialogs\bin\Debug\net8.0-windows\ColorDialogs.deps.json
+C:\Users\Neo-Fix\Downloads\csharp\ColorDialogs\ColorDialogs\bin\Debug\net8.0-windows\ColorDialogs.runtimeconfig.json
+C:\Users\Neo-Fix\Downloads\csharp\ColorDialogs\ColorDialogs\bin\Debug\net8.0-windows\ColorDialogs.dll
+C:\Users\Neo-Fix\Downloads\csharp\ColorDialogs\ColorDialogs\bin\Debug\net8.0-windows\ColorDialogs.pdb
+C:\Users\Neo-Fix\Downloads\csharp\ColorDialogs\ColorDialogs\obj\Debug\net8.0-windows\ColorDialogs.Form1.resources
+C:\Users\Neo-Fix\Downloads\csharp\ColorDialogs\ColorDialogs\obj\Debug\net8.0-windows\ColorDialogs.csproj.GenerateResource.cache
+C:\Users\Neo-Fix\Downloads\csharp\ColorDialogs\ColorDialogs\obj\Debug\net8.0-windows\ColorDialogs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Neo-Fix\Downloads\csharp\ColorDialogs\ColorDialogs\obj\Debug\net8.0-windows\ColorDialogs.AssemblyInfoInputs.cache
+C:\Users\Neo-Fix\Downloads\csharp\ColorDialogs\ColorDialogs\obj\Debug\net8.0-windows\ColorDialogs.AssemblyInfo.cs
+C:\Users\Neo-Fix\Downloads\csharp\ColorDialogs\ColorDialogs\obj\Debug\net8.0-windows\ColorDialogs.csproj.CoreCompileInputs.cache
+C:\Users\Neo-Fix\Downloads\csharp\ColorDialogs\ColorDialogs\obj\Debug\net8.0-windows\ColorDialogs.sourcelink.json
+C:\Users\Neo-Fix\Downloads\csharp\ColorDialogs\ColorDialogs\obj\Debug\net8.0-windows\ColorDialogs.dll
+C:\Users\Neo-Fix\Downloads\csharp\ColorDialogs\ColorDialogs\obj\Debug\net8.0-windows\refint\ColorDialogs.dll
+C:\Users\Neo-Fix\Downloads\csharp\ColorDialogs\ColorDialogs\obj\Debug\net8.0-windows\ColorDialogs.pdb
+C:\Users\Neo-Fix\Downloads\csharp\ColorDialogs\ColorDialogs\obj\Debug\net8.0-windows\ColorDialogs.genruntimeconfig.cache
+C:\Users\Neo-Fix\Downloads\csharp\ColorDialogs\ColorDialogs\obj\Debug\net8.0-windows\ref\ColorDialogs.dll

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TrackerBar")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7c1dcf5d260c4ebde8a5873a6ceaaaf18d847fca")]
 [assembly: System.Reflection.AssemblyProductAttribute("TrackerBar")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TrackerBar")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,17 @@
+C:\Users\Neo-Fix\Downloads\csharp\ColorControl\ColorControl\bin\Debug\net8.0-windows\ColorControl.exe
+C:\Users\Neo-Fix\Downloads\csharp\ColorControl\ColorControl\bin\Debug\net8.0-windows\ColorControl.deps.json
+C:\Users\Neo-Fix\Downloads\csharp\ColorControl\ColorControl\bin\Debug\net8.0-windows\ColorControl.runtimeconfig.json
+C:\Users\Neo-Fix\Downloads\csharp\ColorControl\ColorControl\bin\Debug\net8.0-windows\ColorControl.dll
+C:\Users\Neo-Fix\Downloads\csharp\ColorControl\ColorControl\bin\Debug\net8.0-windows\ColorControl.pdb
+C:\Users\Neo-Fix\Downloads\csharp\ColorControl\ColorControl\obj\Debug\net8.0-windows\ColorControl.Form1.resources
+C:\Users\Neo-Fix\Downloads\csharp\ColorControl\ColorControl\obj\Debug\net8.0-windows\ColorControl.csproj.GenerateResource.cache
+C:\Users\Neo-Fix\Downloads\csharp\ColorControl\ColorControl\obj\Debug\net8.0-windows\ColorControl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Neo-Fix\Downloads\csharp\ColorControl\ColorControl\obj\Debug\net8.0-windows\ColorControl.AssemblyInfoInputs.cache
+C:\Users\Neo-Fix\Downloads\csharp\ColorControl\ColorControl\obj\Debug\net8.0-windows\ColorControl.AssemblyInfo.cs
+C:\Users\Neo-Fix\Downloads\csharp\ColorControl\ColorControl\obj\Debug\net8.0-windows\ColorControl.csproj.CoreCompileInputs.cache
+C:\Users\Neo-Fix\Downloads\csharp\ColorControl\ColorControl\obj\Debug\net8.0-windows\ColorControl.sourcelink.json
+C:\Users\Neo-Fix\Downloads\csharp\ColorControl\ColorControl\obj\Debug\net8.0-windows\ColorControl.dll
+C:\Users\Neo-Fix\Downloads\csharp\ColorControl\ColorControl\obj\Debug\net8.0-windows\refint\ColorControl.dll
+C:\Users\Neo-Fix\Downloads\csharp\ColorControl\ColorControl\obj\Debug\net8.0-windows\ColorControl.pdb
+C:\Users\Neo-Fix\Downloads\csharp\ColorControl\ColorControl\obj\Debug\net8.0-windows\ColorControl.genruntimeconfig.cache
+C:\Users\Neo-Fix\Downloads\csharp\ColorControl\ColorControl\obj\Debug\net8.0-windows\ref\ColorControl.dll

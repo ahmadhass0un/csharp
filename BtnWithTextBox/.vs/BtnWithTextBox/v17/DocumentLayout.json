@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Neo-Fix\\Downloads\\reops\\BtnWithTextBox\\",
+  "WorkspaceRootPath": "C:\\Users\\Neo-Fix\\Downloads\\csharp\\BtnWithTextBox\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{86CE8041-68DD-44B8-AA12-1035F944ED52}|BtnWithTextBox\\BtnWithTextBox.csproj|c:\\users\\neo-fix\\downloads\\reops\\btnwithtextbox\\btnwithtextbox\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{86CE8041-68DD-44B8-AA12-1035F944ED52}|BtnWithTextBox\\BtnWithTextBox.csproj|c:\\users\\neo-fix\\downloads\\csharp\\btnwithtextbox\\btnwithtextbox\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{86CE8041-68DD-44B8-AA12-1035F944ED52}|BtnWithTextBox\\BtnWithTextBox.csproj|solutionrelative:btnwithtextbox\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -20,9 +20,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Neo-Fix\\Downloads\\reops\\BtnWithTextBox\\BtnWithTextBox\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Neo-Fix\\Downloads\\csharp\\BtnWithTextBox\\BtnWithTextBox\\Form1.cs",
               "RelativeDocumentMoniker": "BtnWithTextBox\\Form1.cs",
-              "ToolTip": "C:\\Users\\Neo-Fix\\Downloads\\reops\\BtnWithTextBox\\BtnWithTextBox\\Form1.cs [Design]",
+              "ToolTip": "C:\\Users\\Neo-Fix\\Downloads\\csharp\\BtnWithTextBox\\BtnWithTextBox\\Form1.cs [Design]",
               "RelativeToolTip": "BtnWithTextBox\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-07T11:40:35.152Z",

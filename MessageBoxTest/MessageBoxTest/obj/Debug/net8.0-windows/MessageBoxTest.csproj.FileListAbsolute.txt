@@ -1,0 +1,17 @@
+C:\Users\Neo-Fix\Downloads\csharp\MessageBoxTest\MessageBoxTest\bin\Debug\net8.0-windows\MessageBoxTest.exe
+C:\Users\Neo-Fix\Downloads\csharp\MessageBoxTest\MessageBoxTest\bin\Debug\net8.0-windows\MessageBoxTest.deps.json
+C:\Users\Neo-Fix\Downloads\csharp\MessageBoxTest\MessageBoxTest\bin\Debug\net8.0-windows\MessageBoxTest.runtimeconfig.json
+C:\Users\Neo-Fix\Downloads\csharp\MessageBoxTest\MessageBoxTest\bin\Debug\net8.0-windows\MessageBoxTest.dll
+C:\Users\Neo-Fix\Downloads\csharp\MessageBoxTest\MessageBoxTest\bin\Debug\net8.0-windows\MessageBoxTest.pdb
+C:\Users\Neo-Fix\Downloads\csharp\MessageBoxTest\MessageBoxTest\obj\Debug\net8.0-windows\MessageBoxTest.Form1.resources
+C:\Users\Neo-Fix\Downloads\csharp\MessageBoxTest\MessageBoxTest\obj\Debug\net8.0-windows\MessageBoxTest.csproj.GenerateResource.cache
+C:\Users\Neo-Fix\Downloads\csharp\MessageBoxTest\MessageBoxTest\obj\Debug\net8.0-windows\MessageBoxTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Neo-Fix\Downloads\csharp\MessageBoxTest\MessageBoxTest\obj\Debug\net8.0-windows\MessageBoxTest.AssemblyInfoInputs.cache
+C:\Users\Neo-Fix\Downloads\csharp\MessageBoxTest\MessageBoxTest\obj\Debug\net8.0-windows\MessageBoxTest.AssemblyInfo.cs
+C:\Users\Neo-Fix\Downloads\csharp\MessageBoxTest\MessageBoxTest\obj\Debug\net8.0-windows\MessageBoxTest.csproj.CoreCompileInputs.cache
+C:\Users\Neo-Fix\Downloads\csharp\MessageBoxTest\MessageBoxTest\obj\Debug\net8.0-windows\MessageBoxTest.sourcelink.json
+C:\Users\Neo-Fix\Downloads\csharp\MessageBoxTest\MessageBoxTest\obj\Debug\net8.0-windows\MessageBoxTest.dll
+C:\Users\Neo-Fix\Downloads\csharp\MessageBoxTest\MessageBoxTest\obj\Debug\net8.0-windows\refint\MessageBoxTest.dll
+C:\Users\Neo-Fix\Downloads\csharp\MessageBoxTest\MessageBoxTest\obj\Debug\net8.0-windows\MessageBoxTest.pdb
+C:\Users\Neo-Fix\Downloads\csharp\MessageBoxTest\MessageBoxTest\obj\Debug\net8.0-windows\MessageBoxTest.genruntimeconfig.cache
+C:\Users\Neo-Fix\Downloads\csharp\MessageBoxTest\MessageBoxTest\obj\Debug\net8.0-windows\ref\MessageBoxTest.dll

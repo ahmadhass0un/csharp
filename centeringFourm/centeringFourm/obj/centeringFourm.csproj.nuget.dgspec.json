@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Neo-Fix\\Downloads\\reops\\centeringFourm\\centeringFourm\\centeringFourm.csproj": {}
+    "C:\\Users\\Neo-Fix\\Downloads\\csharp\\centeringFourm\\centeringFourm\\centeringFourm.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Neo-Fix\\Downloads\\reops\\centeringFourm\\centeringFourm\\centeringFourm.csproj": {
+    "C:\\Users\\Neo-Fix\\Downloads\\csharp\\centeringFourm\\centeringFourm\\centeringFourm.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Neo-Fix\\Downloads\\reops\\centeringFourm\\centeringFourm\\centeringFourm.csproj",
+        "projectUniqueName": "C:\\Users\\Neo-Fix\\Downloads\\csharp\\centeringFourm\\centeringFourm\\centeringFourm.csproj",
         "projectName": "centeringFourm",
-        "projectPath": "C:\\Users\\Neo-Fix\\Downloads\\reops\\centeringFourm\\centeringFourm\\centeringFourm.csproj",
+        "projectPath": "C:\\Users\\Neo-Fix\\Downloads\\csharp\\centeringFourm\\centeringFourm\\centeringFourm.csproj",
         "packagesPath": "C:\\Users\\Neo-Fix\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Neo-Fix\\Downloads\\reops\\centeringFourm\\centeringFourm\\obj\\",
+        "outputPath": "C:\\Users\\Neo-Fix\\Downloads\\csharp\\centeringFourm\\centeringFourm\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Neo-Fix\\AppData\\Roaming\\NuGet\\NuGet.Config",
