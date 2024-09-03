@@ -1,0 +1,17 @@
+C:\Users\Neo-Fix\Downloads\csharp\DateTimeTool\DateTimeTool\bin\Debug\net8.0-windows\DateTimeTool.exe
+C:\Users\Neo-Fix\Downloads\csharp\DateTimeTool\DateTimeTool\bin\Debug\net8.0-windows\DateTimeTool.deps.json
+C:\Users\Neo-Fix\Downloads\csharp\DateTimeTool\DateTimeTool\bin\Debug\net8.0-windows\DateTimeTool.runtimeconfig.json
+C:\Users\Neo-Fix\Downloads\csharp\DateTimeTool\DateTimeTool\bin\Debug\net8.0-windows\DateTimeTool.dll
+C:\Users\Neo-Fix\Downloads\csharp\DateTimeTool\DateTimeTool\bin\Debug\net8.0-windows\DateTimeTool.pdb
+C:\Users\Neo-Fix\Downloads\csharp\DateTimeTool\DateTimeTool\obj\Debug\net8.0-windows\DateTimeTool.Form1.resources
+C:\Users\Neo-Fix\Downloads\csharp\DateTimeTool\DateTimeTool\obj\Debug\net8.0-windows\DateTimeTool.csproj.GenerateResource.cache
+C:\Users\Neo-Fix\Downloads\csharp\DateTimeTool\DateTimeTool\obj\Debug\net8.0-windows\DateTimeTool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Neo-Fix\Downloads\csharp\DateTimeTool\DateTimeTool\obj\Debug\net8.0-windows\DateTimeTool.AssemblyInfoInputs.cache
+C:\Users\Neo-Fix\Downloads\csharp\DateTimeTool\DateTimeTool\obj\Debug\net8.0-windows\DateTimeTool.AssemblyInfo.cs
+C:\Users\Neo-Fix\Downloads\csharp\DateTimeTool\DateTimeTool\obj\Debug\net8.0-windows\DateTimeTool.csproj.CoreCompileInputs.cache
+C:\Users\Neo-Fix\Downloads\csharp\DateTimeTool\DateTimeTool\obj\Debug\net8.0-windows\DateTimeTool.sourcelink.json
+C:\Users\Neo-Fix\Downloads\csharp\DateTimeTool\DateTimeTool\obj\Debug\net8.0-windows\DateTimeTool.dll
+C:\Users\Neo-Fix\Downloads\csharp\DateTimeTool\DateTimeTool\obj\Debug\net8.0-windows\refint\DateTimeTool.dll
+C:\Users\Neo-Fix\Downloads\csharp\DateTimeTool\DateTimeTool\obj\Debug\net8.0-windows\DateTimeTool.pdb
+C:\Users\Neo-Fix\Downloads\csharp\DateTimeTool\DateTimeTool\obj\Debug\net8.0-windows\DateTimeTool.genruntimeconfig.cache
+C:\Users\Neo-Fix\Downloads\csharp\DateTimeTool\DateTimeTool\obj\Debug\net8.0-windows\ref\DateTimeTool.dll

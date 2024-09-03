@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Neo-Fix\\Downloads\\csharp\\DateTimeTool\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3BC6588D-57FF-4EF4-887F-4AFC177138B3}|DateTimeTool\\DateTimeTool.csproj|c:\\users\\neo-fix\\downloads\\csharp\\datetimetool\\datetimetool\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BC6588D-57FF-4EF4-887F-4AFC177138B3}|DateTimeTool\\DateTimeTool.csproj|solutionrelative:datetimetool\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BC6588D-57FF-4EF4-887F-4AFC177138B3}|DateTimeTool\\DateTimeTool.csproj|c:\\users\\neo-fix\\downloads\\csharp\\datetimetool\\datetimetool\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3BC6588D-57FF-4EF4-887F-4AFC177138B3}|DateTimeTool\\DateTimeTool.csproj|solutionrelative:datetimetool\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Neo-Fix\\Downloads\\csharp\\DateTimeTool\\DateTimeTool\\Form1.cs",
+              "RelativeDocumentMoniker": "DateTimeTool\\Form1.cs",
+              "ToolTip": "C:\\Users\\Neo-Fix\\Downloads\\csharp\\DateTimeTool\\DateTimeTool\\Form1.cs",
+              "RelativeToolTip": "DateTimeTool\\Form1.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAxwBYAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T16:27:14.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Neo-Fix\\Downloads\\csharp\\DateTimeTool\\DateTimeTool\\Form1.cs",
+              "RelativeDocumentMoniker": "DateTimeTool\\Form1.cs",
+              "ToolTip": "C:\\Users\\Neo-Fix\\Downloads\\csharp\\DateTimeTool\\DateTimeTool\\Form1.cs [Design]",
+              "RelativeToolTip": "DateTimeTool\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T16:09:41.963Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
