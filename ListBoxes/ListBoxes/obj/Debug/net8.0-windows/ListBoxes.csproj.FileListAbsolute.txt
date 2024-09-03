@@ -1,0 +1,17 @@
+C:\Users\Neo-Fix\Downloads\csharp\ListBoxes\ListBoxes\bin\Debug\net8.0-windows\ListBoxes.exe
+C:\Users\Neo-Fix\Downloads\csharp\ListBoxes\ListBoxes\bin\Debug\net8.0-windows\ListBoxes.deps.json
+C:\Users\Neo-Fix\Downloads\csharp\ListBoxes\ListBoxes\bin\Debug\net8.0-windows\ListBoxes.runtimeconfig.json
+C:\Users\Neo-Fix\Downloads\csharp\ListBoxes\ListBoxes\bin\Debug\net8.0-windows\ListBoxes.dll
+C:\Users\Neo-Fix\Downloads\csharp\ListBoxes\ListBoxes\bin\Debug\net8.0-windows\ListBoxes.pdb
+C:\Users\Neo-Fix\Downloads\csharp\ListBoxes\ListBoxes\obj\Debug\net8.0-windows\ListBoxes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Neo-Fix\Downloads\csharp\ListBoxes\ListBoxes\obj\Debug\net8.0-windows\ListBoxes.AssemblyInfoInputs.cache
+C:\Users\Neo-Fix\Downloads\csharp\ListBoxes\ListBoxes\obj\Debug\net8.0-windows\ListBoxes.AssemblyInfo.cs
+C:\Users\Neo-Fix\Downloads\csharp\ListBoxes\ListBoxes\obj\Debug\net8.0-windows\ListBoxes.csproj.CoreCompileInputs.cache
+C:\Users\Neo-Fix\Downloads\csharp\ListBoxes\ListBoxes\obj\Debug\net8.0-windows\ListBoxes.sourcelink.json
+C:\Users\Neo-Fix\Downloads\csharp\ListBoxes\ListBoxes\obj\Debug\net8.0-windows\ListBoxes.dll
+C:\Users\Neo-Fix\Downloads\csharp\ListBoxes\ListBoxes\obj\Debug\net8.0-windows\refint\ListBoxes.dll
+C:\Users\Neo-Fix\Downloads\csharp\ListBoxes\ListBoxes\obj\Debug\net8.0-windows\ListBoxes.pdb
+C:\Users\Neo-Fix\Downloads\csharp\ListBoxes\ListBoxes\obj\Debug\net8.0-windows\ListBoxes.genruntimeconfig.cache
+C:\Users\Neo-Fix\Downloads\csharp\ListBoxes\ListBoxes\obj\Debug\net8.0-windows\ref\ListBoxes.dll
+C:\Users\Neo-Fix\Downloads\csharp\ListBoxes\ListBoxes\obj\Debug\net8.0-windows\ListBoxes.Form1.resources
+C:\Users\Neo-Fix\Downloads\csharp\ListBoxes\ListBoxes\obj\Debug\net8.0-windows\ListBoxes.csproj.GenerateResource.cache
