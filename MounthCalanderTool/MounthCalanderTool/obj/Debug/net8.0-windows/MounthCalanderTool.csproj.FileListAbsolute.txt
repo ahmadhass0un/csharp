@@ -1,0 +1,17 @@
+C:\Users\Neo-Fix\Downloads\csharp\MounthCalanderTool\MounthCalanderTool\bin\Debug\net8.0-windows\MounthCalanderTool.exe
+C:\Users\Neo-Fix\Downloads\csharp\MounthCalanderTool\MounthCalanderTool\bin\Debug\net8.0-windows\MounthCalanderTool.deps.json
+C:\Users\Neo-Fix\Downloads\csharp\MounthCalanderTool\MounthCalanderTool\bin\Debug\net8.0-windows\MounthCalanderTool.runtimeconfig.json
+C:\Users\Neo-Fix\Downloads\csharp\MounthCalanderTool\MounthCalanderTool\bin\Debug\net8.0-windows\MounthCalanderTool.dll
+C:\Users\Neo-Fix\Downloads\csharp\MounthCalanderTool\MounthCalanderTool\bin\Debug\net8.0-windows\MounthCalanderTool.pdb
+C:\Users\Neo-Fix\Downloads\csharp\MounthCalanderTool\MounthCalanderTool\obj\Debug\net8.0-windows\MounthCalanderTool.Form1.resources
+C:\Users\Neo-Fix\Downloads\csharp\MounthCalanderTool\MounthCalanderTool\obj\Debug\net8.0-windows\MounthCalanderTool.csproj.GenerateResource.cache
+C:\Users\Neo-Fix\Downloads\csharp\MounthCalanderTool\MounthCalanderTool\obj\Debug\net8.0-windows\MounthCalanderTool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Neo-Fix\Downloads\csharp\MounthCalanderTool\MounthCalanderTool\obj\Debug\net8.0-windows\MounthCalanderTool.AssemblyInfoInputs.cache
+C:\Users\Neo-Fix\Downloads\csharp\MounthCalanderTool\MounthCalanderTool\obj\Debug\net8.0-windows\MounthCalanderTool.AssemblyInfo.cs
+C:\Users\Neo-Fix\Downloads\csharp\MounthCalanderTool\MounthCalanderTool\obj\Debug\net8.0-windows\MounthCalanderTool.csproj.CoreCompileInputs.cache
+C:\Users\Neo-Fix\Downloads\csharp\MounthCalanderTool\MounthCalanderTool\obj\Debug\net8.0-windows\MounthCalanderTool.sourcelink.json
+C:\Users\Neo-Fix\Downloads\csharp\MounthCalanderTool\MounthCalanderTool\obj\Debug\net8.0-windows\MounthCalanderTool.dll
+C:\Users\Neo-Fix\Downloads\csharp\MounthCalanderTool\MounthCalanderTool\obj\Debug\net8.0-windows\refint\MounthCalanderTool.dll
+C:\Users\Neo-Fix\Downloads\csharp\MounthCalanderTool\MounthCalanderTool\obj\Debug\net8.0-windows\MounthCalanderTool.pdb
+C:\Users\Neo-Fix\Downloads\csharp\MounthCalanderTool\MounthCalanderTool\obj\Debug\net8.0-windows\MounthCalanderTool.genruntimeconfig.cache
+C:\Users\Neo-Fix\Downloads\csharp\MounthCalanderTool\MounthCalanderTool\obj\Debug\net8.0-windows\ref\MounthCalanderTool.dll
