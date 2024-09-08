@@ -1,0 +1,17 @@
+C:\Users\Neo-Fix\Downloads\csharp\LinkLable\LinkLable\bin\Debug\net8.0-windows\LinkLable.exe
+C:\Users\Neo-Fix\Downloads\csharp\LinkLable\LinkLable\bin\Debug\net8.0-windows\LinkLable.deps.json
+C:\Users\Neo-Fix\Downloads\csharp\LinkLable\LinkLable\bin\Debug\net8.0-windows\LinkLable.runtimeconfig.json
+C:\Users\Neo-Fix\Downloads\csharp\LinkLable\LinkLable\bin\Debug\net8.0-windows\LinkLable.dll
+C:\Users\Neo-Fix\Downloads\csharp\LinkLable\LinkLable\bin\Debug\net8.0-windows\LinkLable.pdb
+C:\Users\Neo-Fix\Downloads\csharp\LinkLable\LinkLable\obj\Debug\net8.0-windows\LinkLable.Form1.resources
+C:\Users\Neo-Fix\Downloads\csharp\LinkLable\LinkLable\obj\Debug\net8.0-windows\LinkLable.csproj.GenerateResource.cache
+C:\Users\Neo-Fix\Downloads\csharp\LinkLable\LinkLable\obj\Debug\net8.0-windows\LinkLable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Neo-Fix\Downloads\csharp\LinkLable\LinkLable\obj\Debug\net8.0-windows\LinkLable.AssemblyInfoInputs.cache
+C:\Users\Neo-Fix\Downloads\csharp\LinkLable\LinkLable\obj\Debug\net8.0-windows\LinkLable.AssemblyInfo.cs
+C:\Users\Neo-Fix\Downloads\csharp\LinkLable\LinkLable\obj\Debug\net8.0-windows\LinkLable.csproj.CoreCompileInputs.cache
+C:\Users\Neo-Fix\Downloads\csharp\LinkLable\LinkLable\obj\Debug\net8.0-windows\LinkLable.sourcelink.json
+C:\Users\Neo-Fix\Downloads\csharp\LinkLable\LinkLable\obj\Debug\net8.0-windows\LinkLable.dll
+C:\Users\Neo-Fix\Downloads\csharp\LinkLable\LinkLable\obj\Debug\net8.0-windows\refint\LinkLable.dll
+C:\Users\Neo-Fix\Downloads\csharp\LinkLable\LinkLable\obj\Debug\net8.0-windows\LinkLable.pdb
+C:\Users\Neo-Fix\Downloads\csharp\LinkLable\LinkLable\obj\Debug\net8.0-windows\LinkLable.genruntimeconfig.cache
+C:\Users\Neo-Fix\Downloads\csharp\LinkLable\LinkLable\obj\Debug\net8.0-windows\ref\LinkLable.dll

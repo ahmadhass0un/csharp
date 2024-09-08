@@ -1,0 +1,17 @@
+C:\Users\Neo-Fix\Downloads\csharp\ProggressBars\ProggressBars\bin\Debug\net8.0-windows\ProggressBars.exe
+C:\Users\Neo-Fix\Downloads\csharp\ProggressBars\ProggressBars\bin\Debug\net8.0-windows\ProggressBars.deps.json
+C:\Users\Neo-Fix\Downloads\csharp\ProggressBars\ProggressBars\bin\Debug\net8.0-windows\ProggressBars.runtimeconfig.json
+C:\Users\Neo-Fix\Downloads\csharp\ProggressBars\ProggressBars\bin\Debug\net8.0-windows\ProggressBars.dll
+C:\Users\Neo-Fix\Downloads\csharp\ProggressBars\ProggressBars\bin\Debug\net8.0-windows\ProggressBars.pdb
+C:\Users\Neo-Fix\Downloads\csharp\ProggressBars\ProggressBars\obj\Debug\net8.0-windows\ProggressBars.Form1.resources
+C:\Users\Neo-Fix\Downloads\csharp\ProggressBars\ProggressBars\obj\Debug\net8.0-windows\ProggressBars.csproj.GenerateResource.cache
+C:\Users\Neo-Fix\Downloads\csharp\ProggressBars\ProggressBars\obj\Debug\net8.0-windows\ProggressBars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Neo-Fix\Downloads\csharp\ProggressBars\ProggressBars\obj\Debug\net8.0-windows\ProggressBars.AssemblyInfoInputs.cache
+C:\Users\Neo-Fix\Downloads\csharp\ProggressBars\ProggressBars\obj\Debug\net8.0-windows\ProggressBars.AssemblyInfo.cs
+C:\Users\Neo-Fix\Downloads\csharp\ProggressBars\ProggressBars\obj\Debug\net8.0-windows\ProggressBars.csproj.CoreCompileInputs.cache
+C:\Users\Neo-Fix\Downloads\csharp\ProggressBars\ProggressBars\obj\Debug\net8.0-windows\ProggressBars.sourcelink.json
+C:\Users\Neo-Fix\Downloads\csharp\ProggressBars\ProggressBars\obj\Debug\net8.0-windows\ProggressBars.dll
+C:\Users\Neo-Fix\Downloads\csharp\ProggressBars\ProggressBars\obj\Debug\net8.0-windows\refint\ProggressBars.dll
+C:\Users\Neo-Fix\Downloads\csharp\ProggressBars\ProggressBars\obj\Debug\net8.0-windows\ProggressBars.pdb
+C:\Users\Neo-Fix\Downloads\csharp\ProggressBars\ProggressBars\obj\Debug\net8.0-windows\ProggressBars.genruntimeconfig.cache
+C:\Users\Neo-Fix\Downloads\csharp\ProggressBars\ProggressBars\obj\Debug\net8.0-windows\ref\ProggressBars.dll

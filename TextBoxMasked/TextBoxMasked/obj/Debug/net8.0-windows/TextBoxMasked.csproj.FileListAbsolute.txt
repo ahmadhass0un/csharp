@@ -1,0 +1,17 @@
+C:\Users\Neo-Fix\Downloads\csharp\TextBoxMasked\TextBoxMasked\bin\Debug\net8.0-windows\TextBoxMasked.exe
+C:\Users\Neo-Fix\Downloads\csharp\TextBoxMasked\TextBoxMasked\bin\Debug\net8.0-windows\TextBoxMasked.deps.json
+C:\Users\Neo-Fix\Downloads\csharp\TextBoxMasked\TextBoxMasked\bin\Debug\net8.0-windows\TextBoxMasked.runtimeconfig.json
+C:\Users\Neo-Fix\Downloads\csharp\TextBoxMasked\TextBoxMasked\bin\Debug\net8.0-windows\TextBoxMasked.dll
+C:\Users\Neo-Fix\Downloads\csharp\TextBoxMasked\TextBoxMasked\bin\Debug\net8.0-windows\TextBoxMasked.pdb
+C:\Users\Neo-Fix\Downloads\csharp\TextBoxMasked\TextBoxMasked\obj\Debug\net8.0-windows\TextBoxMasked.Form1.resources
+C:\Users\Neo-Fix\Downloads\csharp\TextBoxMasked\TextBoxMasked\obj\Debug\net8.0-windows\TextBoxMasked.csproj.GenerateResource.cache
+C:\Users\Neo-Fix\Downloads\csharp\TextBoxMasked\TextBoxMasked\obj\Debug\net8.0-windows\TextBoxMasked.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Neo-Fix\Downloads\csharp\TextBoxMasked\TextBoxMasked\obj\Debug\net8.0-windows\TextBoxMasked.AssemblyInfoInputs.cache
+C:\Users\Neo-Fix\Downloads\csharp\TextBoxMasked\TextBoxMasked\obj\Debug\net8.0-windows\TextBoxMasked.AssemblyInfo.cs
+C:\Users\Neo-Fix\Downloads\csharp\TextBoxMasked\TextBoxMasked\obj\Debug\net8.0-windows\TextBoxMasked.csproj.CoreCompileInputs.cache
+C:\Users\Neo-Fix\Downloads\csharp\TextBoxMasked\TextBoxMasked\obj\Debug\net8.0-windows\TextBoxMasked.sourcelink.json
+C:\Users\Neo-Fix\Downloads\csharp\TextBoxMasked\TextBoxMasked\obj\Debug\net8.0-windows\TextBoxMasked.dll
+C:\Users\Neo-Fix\Downloads\csharp\TextBoxMasked\TextBoxMasked\obj\Debug\net8.0-windows\refint\TextBoxMasked.dll
+C:\Users\Neo-Fix\Downloads\csharp\TextBoxMasked\TextBoxMasked\obj\Debug\net8.0-windows\TextBoxMasked.pdb
+C:\Users\Neo-Fix\Downloads\csharp\TextBoxMasked\TextBoxMasked\obj\Debug\net8.0-windows\TextBoxMasked.genruntimeconfig.cache
+C:\Users\Neo-Fix\Downloads\csharp\TextBoxMasked\TextBoxMasked\obj\Debug\net8.0-windows\ref\TextBoxMasked.dll
