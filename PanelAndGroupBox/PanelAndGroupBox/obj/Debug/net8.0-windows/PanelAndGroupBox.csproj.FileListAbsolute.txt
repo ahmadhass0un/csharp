@@ -1,0 +1,17 @@
+C:\Users\Neo-Fix\Downloads\csharp\PanelAndGroupBox\PanelAndGroupBox\bin\Debug\net8.0-windows\PanelAndGroupBox.exe
+C:\Users\Neo-Fix\Downloads\csharp\PanelAndGroupBox\PanelAndGroupBox\bin\Debug\net8.0-windows\PanelAndGroupBox.deps.json
+C:\Users\Neo-Fix\Downloads\csharp\PanelAndGroupBox\PanelAndGroupBox\bin\Debug\net8.0-windows\PanelAndGroupBox.runtimeconfig.json
+C:\Users\Neo-Fix\Downloads\csharp\PanelAndGroupBox\PanelAndGroupBox\bin\Debug\net8.0-windows\PanelAndGroupBox.dll
+C:\Users\Neo-Fix\Downloads\csharp\PanelAndGroupBox\PanelAndGroupBox\bin\Debug\net8.0-windows\PanelAndGroupBox.pdb
+C:\Users\Neo-Fix\Downloads\csharp\PanelAndGroupBox\PanelAndGroupBox\obj\Debug\net8.0-windows\PanelAndGroupBox.Form1.resources
+C:\Users\Neo-Fix\Downloads\csharp\PanelAndGroupBox\PanelAndGroupBox\obj\Debug\net8.0-windows\PanelAndGroupBox.csproj.GenerateResource.cache
+C:\Users\Neo-Fix\Downloads\csharp\PanelAndGroupBox\PanelAndGroupBox\obj\Debug\net8.0-windows\PanelAndGroupBox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Neo-Fix\Downloads\csharp\PanelAndGroupBox\PanelAndGroupBox\obj\Debug\net8.0-windows\PanelAndGroupBox.AssemblyInfoInputs.cache
+C:\Users\Neo-Fix\Downloads\csharp\PanelAndGroupBox\PanelAndGroupBox\obj\Debug\net8.0-windows\PanelAndGroupBox.AssemblyInfo.cs
+C:\Users\Neo-Fix\Downloads\csharp\PanelAndGroupBox\PanelAndGroupBox\obj\Debug\net8.0-windows\PanelAndGroupBox.csproj.CoreCompileInputs.cache
+C:\Users\Neo-Fix\Downloads\csharp\PanelAndGroupBox\PanelAndGroupBox\obj\Debug\net8.0-windows\PanelAndGroupBox.sourcelink.json
+C:\Users\Neo-Fix\Downloads\csharp\PanelAndGroupBox\PanelAndGroupBox\obj\Debug\net8.0-windows\PanelAndGroupBox.dll
+C:\Users\Neo-Fix\Downloads\csharp\PanelAndGroupBox\PanelAndGroupBox\obj\Debug\net8.0-windows\refint\PanelAndGroupBox.dll
+C:\Users\Neo-Fix\Downloads\csharp\PanelAndGroupBox\PanelAndGroupBox\obj\Debug\net8.0-windows\PanelAndGroupBox.pdb
+C:\Users\Neo-Fix\Downloads\csharp\PanelAndGroupBox\PanelAndGroupBox\obj\Debug\net8.0-windows\PanelAndGroupBox.genruntimeconfig.cache
+C:\Users\Neo-Fix\Downloads\csharp\PanelAndGroupBox\PanelAndGroupBox\obj\Debug\net8.0-windows\ref\PanelAndGroupBox.dll
