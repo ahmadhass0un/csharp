@@ -1,0 +1,17 @@
+C:\Users\Neo-Fix\Downloads\csharp\RaidoBoxOnPanel\RaidoBoxOnPanel\bin\Debug\net8.0-windows\RaidoBoxOnPanel.exe
+C:\Users\Neo-Fix\Downloads\csharp\RaidoBoxOnPanel\RaidoBoxOnPanel\bin\Debug\net8.0-windows\RaidoBoxOnPanel.deps.json
+C:\Users\Neo-Fix\Downloads\csharp\RaidoBoxOnPanel\RaidoBoxOnPanel\bin\Debug\net8.0-windows\RaidoBoxOnPanel.runtimeconfig.json
+C:\Users\Neo-Fix\Downloads\csharp\RaidoBoxOnPanel\RaidoBoxOnPanel\bin\Debug\net8.0-windows\RaidoBoxOnPanel.dll
+C:\Users\Neo-Fix\Downloads\csharp\RaidoBoxOnPanel\RaidoBoxOnPanel\bin\Debug\net8.0-windows\RaidoBoxOnPanel.pdb
+C:\Users\Neo-Fix\Downloads\csharp\RaidoBoxOnPanel\RaidoBoxOnPanel\obj\Debug\net8.0-windows\RaidoBoxOnPanel.Form1.resources
+C:\Users\Neo-Fix\Downloads\csharp\RaidoBoxOnPanel\RaidoBoxOnPanel\obj\Debug\net8.0-windows\RaidoBoxOnPanel.csproj.GenerateResource.cache
+C:\Users\Neo-Fix\Downloads\csharp\RaidoBoxOnPanel\RaidoBoxOnPanel\obj\Debug\net8.0-windows\RaidoBoxOnPanel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Neo-Fix\Downloads\csharp\RaidoBoxOnPanel\RaidoBoxOnPanel\obj\Debug\net8.0-windows\RaidoBoxOnPanel.AssemblyInfoInputs.cache
+C:\Users\Neo-Fix\Downloads\csharp\RaidoBoxOnPanel\RaidoBoxOnPanel\obj\Debug\net8.0-windows\RaidoBoxOnPanel.AssemblyInfo.cs
+C:\Users\Neo-Fix\Downloads\csharp\RaidoBoxOnPanel\RaidoBoxOnPanel\obj\Debug\net8.0-windows\RaidoBoxOnPanel.csproj.CoreCompileInputs.cache
+C:\Users\Neo-Fix\Downloads\csharp\RaidoBoxOnPanel\RaidoBoxOnPanel\obj\Debug\net8.0-windows\RaidoBoxOnPanel.sourcelink.json
+C:\Users\Neo-Fix\Downloads\csharp\RaidoBoxOnPanel\RaidoBoxOnPanel\obj\Debug\net8.0-windows\RaidoBoxOnPanel.dll
+C:\Users\Neo-Fix\Downloads\csharp\RaidoBoxOnPanel\RaidoBoxOnPanel\obj\Debug\net8.0-windows\refint\RaidoBoxOnPanel.dll
+C:\Users\Neo-Fix\Downloads\csharp\RaidoBoxOnPanel\RaidoBoxOnPanel\obj\Debug\net8.0-windows\RaidoBoxOnPanel.pdb
+C:\Users\Neo-Fix\Downloads\csharp\RaidoBoxOnPanel\RaidoBoxOnPanel\obj\Debug\net8.0-windows\RaidoBoxOnPanel.genruntimeconfig.cache
+C:\Users\Neo-Fix\Downloads\csharp\RaidoBoxOnPanel\RaidoBoxOnPanel\obj\Debug\net8.0-windows\ref\RaidoBoxOnPanel.dll

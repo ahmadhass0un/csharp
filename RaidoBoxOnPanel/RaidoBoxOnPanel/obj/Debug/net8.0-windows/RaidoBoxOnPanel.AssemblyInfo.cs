@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RaidoBoxOnPanel")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9a6445da6593d2c5da86d6b7d6828f876bdee42d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8118d6103b0cb984f774d7408d5ade2ebd325a4d")]
 [assembly: System.Reflection.AssemblyProductAttribute("RaidoBoxOnPanel")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RaidoBoxOnPanel")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

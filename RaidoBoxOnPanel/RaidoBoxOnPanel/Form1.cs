@@ -6,5 +6,17 @@ namespace RaidoBoxOnPanel
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            if (radioButtonMale.Checked)
+            {
+                MessageBox.Show("Male");
+            }
+            else if (radioButtonFemale.Checked)
+            {
+                MessageBox.Show("Female");
+            }
+        }
     }
 }
