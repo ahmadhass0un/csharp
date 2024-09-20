@@ -1,0 +1,17 @@
+C:\Users\Neo-Fix\Downloads\csharp\ControlsArray\ControlsArray\bin\Debug\net8.0-windows\ControlsArray.exe
+C:\Users\Neo-Fix\Downloads\csharp\ControlsArray\ControlsArray\bin\Debug\net8.0-windows\ControlsArray.deps.json
+C:\Users\Neo-Fix\Downloads\csharp\ControlsArray\ControlsArray\bin\Debug\net8.0-windows\ControlsArray.runtimeconfig.json
+C:\Users\Neo-Fix\Downloads\csharp\ControlsArray\ControlsArray\bin\Debug\net8.0-windows\ControlsArray.dll
+C:\Users\Neo-Fix\Downloads\csharp\ControlsArray\ControlsArray\bin\Debug\net8.0-windows\ControlsArray.pdb
+C:\Users\Neo-Fix\Downloads\csharp\ControlsArray\ControlsArray\obj\Debug\net8.0-windows\ControlsArray.Form1.resources
+C:\Users\Neo-Fix\Downloads\csharp\ControlsArray\ControlsArray\obj\Debug\net8.0-windows\ControlsArray.csproj.GenerateResource.cache
+C:\Users\Neo-Fix\Downloads\csharp\ControlsArray\ControlsArray\obj\Debug\net8.0-windows\ControlsArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Neo-Fix\Downloads\csharp\ControlsArray\ControlsArray\obj\Debug\net8.0-windows\ControlsArray.AssemblyInfoInputs.cache
+C:\Users\Neo-Fix\Downloads\csharp\ControlsArray\ControlsArray\obj\Debug\net8.0-windows\ControlsArray.AssemblyInfo.cs
+C:\Users\Neo-Fix\Downloads\csharp\ControlsArray\ControlsArray\obj\Debug\net8.0-windows\ControlsArray.csproj.CoreCompileInputs.cache
+C:\Users\Neo-Fix\Downloads\csharp\ControlsArray\ControlsArray\obj\Debug\net8.0-windows\ControlsArray.sourcelink.json
+C:\Users\Neo-Fix\Downloads\csharp\ControlsArray\ControlsArray\obj\Debug\net8.0-windows\ControlsArray.dll
+C:\Users\Neo-Fix\Downloads\csharp\ControlsArray\ControlsArray\obj\Debug\net8.0-windows\refint\ControlsArray.dll
+C:\Users\Neo-Fix\Downloads\csharp\ControlsArray\ControlsArray\obj\Debug\net8.0-windows\ControlsArray.pdb
+C:\Users\Neo-Fix\Downloads\csharp\ControlsArray\ControlsArray\obj\Debug\net8.0-windows\ControlsArray.genruntimeconfig.cache
+C:\Users\Neo-Fix\Downloads\csharp\ControlsArray\ControlsArray\obj\Debug\net8.0-windows\ref\ControlsArray.dll
