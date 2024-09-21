@@ -1,0 +1,17 @@
+C:\Users\Neo-Fix\Downloads\csharp\ForEeachAllControls\ForEeachAllControls\bin\Debug\net8.0-windows\ForEeachAllControls.exe
+C:\Users\Neo-Fix\Downloads\csharp\ForEeachAllControls\ForEeachAllControls\bin\Debug\net8.0-windows\ForEeachAllControls.deps.json
+C:\Users\Neo-Fix\Downloads\csharp\ForEeachAllControls\ForEeachAllControls\bin\Debug\net8.0-windows\ForEeachAllControls.runtimeconfig.json
+C:\Users\Neo-Fix\Downloads\csharp\ForEeachAllControls\ForEeachAllControls\bin\Debug\net8.0-windows\ForEeachAllControls.dll
+C:\Users\Neo-Fix\Downloads\csharp\ForEeachAllControls\ForEeachAllControls\bin\Debug\net8.0-windows\ForEeachAllControls.pdb
+C:\Users\Neo-Fix\Downloads\csharp\ForEeachAllControls\ForEeachAllControls\obj\Debug\net8.0-windows\ForEeachAllControls.Form1.resources
+C:\Users\Neo-Fix\Downloads\csharp\ForEeachAllControls\ForEeachAllControls\obj\Debug\net8.0-windows\ForEeachAllControls.csproj.GenerateResource.cache
+C:\Users\Neo-Fix\Downloads\csharp\ForEeachAllControls\ForEeachAllControls\obj\Debug\net8.0-windows\ForEeachAllControls.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Neo-Fix\Downloads\csharp\ForEeachAllControls\ForEeachAllControls\obj\Debug\net8.0-windows\ForEeachAllControls.AssemblyInfoInputs.cache
+C:\Users\Neo-Fix\Downloads\csharp\ForEeachAllControls\ForEeachAllControls\obj\Debug\net8.0-windows\ForEeachAllControls.AssemblyInfo.cs
+C:\Users\Neo-Fix\Downloads\csharp\ForEeachAllControls\ForEeachAllControls\obj\Debug\net8.0-windows\ForEeachAllControls.csproj.CoreCompileInputs.cache
+C:\Users\Neo-Fix\Downloads\csharp\ForEeachAllControls\ForEeachAllControls\obj\Debug\net8.0-windows\ForEeachAllControls.sourcelink.json
+C:\Users\Neo-Fix\Downloads\csharp\ForEeachAllControls\ForEeachAllControls\obj\Debug\net8.0-windows\ForEeachAllControls.dll
+C:\Users\Neo-Fix\Downloads\csharp\ForEeachAllControls\ForEeachAllControls\obj\Debug\net8.0-windows\refint\ForEeachAllControls.dll
+C:\Users\Neo-Fix\Downloads\csharp\ForEeachAllControls\ForEeachAllControls\obj\Debug\net8.0-windows\ForEeachAllControls.pdb
+C:\Users\Neo-Fix\Downloads\csharp\ForEeachAllControls\ForEeachAllControls\obj\Debug\net8.0-windows\ForEeachAllControls.genruntimeconfig.cache
+C:\Users\Neo-Fix\Downloads\csharp\ForEeachAllControls\ForEeachAllControls\obj\Debug\net8.0-windows\ref\ForEeachAllControls.dll
