@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35323.107
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlowLayoutPaneL", "FlowLayoutPaneL\FlowLayoutPaneL.csproj", "{0905EF0F-77A1-49DD-8CD1-5F945B43AD6D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0905EF0F-77A1-49DD-8CD1-5F945B43AD6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0905EF0F-77A1-49DD-8CD1-5F945B43AD6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0905EF0F-77A1-49DD-8CD1-5F945B43AD6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0905EF0F-77A1-49DD-8CD1-5F945B43AD6D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {39E73115-299D-49B4-B24F-AA1F6643E0AB}
+	EndGlobalSection
+EndGlobal
